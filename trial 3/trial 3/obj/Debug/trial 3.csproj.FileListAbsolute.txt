@@ -1,0 +1,7 @@
+C:\Users\kirov\OneDrive\Desktop\trial 3\trial 3\bin\Debug\trial 3.exe.config
+C:\Users\kirov\OneDrive\Desktop\trial 3\trial 3\bin\Debug\trial 3.exe
+C:\Users\kirov\OneDrive\Desktop\trial 3\trial 3\bin\Debug\trial 3.pdb
+C:\Users\kirov\OneDrive\Desktop\trial 3\trial 3\obj\Debug\trial 3.csproj.AssemblyReference.cache
+C:\Users\kirov\OneDrive\Desktop\trial 3\trial 3\obj\Debug\trial 3.csproj.CoreCompileInputs.cache
+C:\Users\kirov\OneDrive\Desktop\trial 3\trial 3\obj\Debug\trial 3.exe
+C:\Users\kirov\OneDrive\Desktop\trial 3\trial 3\obj\Debug\trial 3.pdb
